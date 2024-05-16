@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1685023026 source:c:\users\administrator\desktop\testcplusplus\gestion_circuit_agence\main.cpp
+	<iostream>
+	<string>
+	"Circuit.h"
+	"Activite.h"
+	"Voyageur.h"
+	<list>
+
+1684462555 source:c:\users\administrator\desktop\testcplusplus\gestion_circuit_agence\activite.cpp
+	"Activite.h"
+	<iostream>
+
+1684462543 c:\users\administrator\desktop\testcplusplus\gestion_circuit_agence\activite.h
+	<iostream>
+
+1685022535 source:c:\users\administrator\desktop\testcplusplus\gestion_circuit_agence\circuit.cpp
+	<string>
+	"Circuit.h"
+	"Activite.h"
+	<list>
+
+1684460182 c:\users\administrator\desktop\testcplusplus\gestion_circuit_agence\circuit.h
+	<string>
+	<list>
+	"Activite.h"
+
+1684438762 source:c:\users\administrator\desktop\testcplusplus\gestion_circuit_agence\voyageur.cpp
+	"Circuit.h"
+	"Activite.h"
+	"Voyageur.h"
+	<list>
+
+1684342147 c:\users\administrator\desktop\testcplusplus\gestion_circuit_agence\voyageur.h
+	"Circuit.h"
+	"Activite.h"
+
